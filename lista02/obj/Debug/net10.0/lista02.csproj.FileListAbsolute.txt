@@ -1,0 +1,14 @@
+C:\Users\danal\Documents\lista02\bin\Debug\net10.0\lista02.exe
+C:\Users\danal\Documents\lista02\bin\Debug\net10.0\lista02.deps.json
+C:\Users\danal\Documents\lista02\bin\Debug\net10.0\lista02.runtimeconfig.json
+C:\Users\danal\Documents\lista02\bin\Debug\net10.0\lista02.dll
+C:\Users\danal\Documents\lista02\bin\Debug\net10.0\lista02.pdb
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.AssemblyInfoInputs.cache
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.AssemblyInfo.cs
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.csproj.CoreCompileInputs.cache
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.dll
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\refint\lista02.dll
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.pdb
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\lista02.genruntimeconfig.cache
+C:\Users\danal\Documents\lista02\obj\Debug\net10.0\ref\lista02.dll
